@@ -10,7 +10,8 @@ How is this data produced?
 
 The index is compiled based on the change in the average price of commodities charged by domestic producers of an industry. 
 
-Dashboard Objective
+## Dashboard Objective
+
 This dashboard visualization may help some companies/organizations understand their producer goods pricing and assisting make pricing adjustment to certain type of goods across 5 different industries and to calculate inflation at the wholesale level that is compiled from thousands of indexes. 
 This is important because  inflation at the wholesale and retail levels may differ as a result of distribution costs, as well as government taxes and subsidies. The producer price index looks at inflation from the viewpoint of industry and business. This method measures price changes before consumers purchase final goods and services. As a result, many analysts consider it to predict inflation and future of price when paired with consumer price index and may assist in the the following category:
 Contract adjustment. 
@@ -20,7 +21,7 @@ Comparison of input and output costs.
 Comparison of industry-based price data to other industry-oriented economic time series.
 Future price increase or decrease forecasting.
 
-Dashboard visualization production steps:
+## Dashboard visualization production steps:
 
 Step 1 : Load data into MS Excel using dataset is a csv file option.
 Step 2 : Check data header and range for any errors and checked and observed that in none of the columns errors & empty values were present and observed the data range end at 31st July 2024.
@@ -33,7 +34,8 @@ Step 8 : Bar, pie and line type chart were selected to represent total monthly d
 Step 9 : Date filters (Slicers) were added and formatted from range from 2010 -2024 
 Step 10 : Filter selection based on time period (1 January 2024 to 31 July 2024) for data gathering purposes. 
 
-Dashboard visualization summary for selected time period yearly data ranging 1 January 2010 - 31 July 2024
+## Dashboard visualization summary for selected time period yearly data ranging 1 January 2010 - 31 July 2024
+
 From the visualization selection - it can be summarizes that the Producer Pricing across 5 different sectors (agriculture, mining, manufacturing, electricity and water) in Malaysia from 1 January 2010 to 31 July 2024: 
 Highest total recorded producer price from 1 January 2010 to 31 July 2024 time period for all sectors is in the year 2022. 
 Lowest total recorded producer price from 1 January 2010 to 31 July 2024 time period for all sectors is in the year 2024, however this data limited until 31 July 2024.
